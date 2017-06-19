@@ -5,4 +5,11 @@
 
     <string name="view_navigation_open">Open</string>
     <string name="view_navigation_close">Close</string>
+
+    <string name="tab_item_history">HISTORY</string>
+    <string name="tab_item_ideas">Ideas</string>
+    <string name="tab_item_todo">TODO</string>
+    <string name="tab_item_birthdays">Birthdays</string>
+
+
 </resources>
